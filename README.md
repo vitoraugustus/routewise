@@ -1,23 +1,20 @@
 # RouteWise
 
-Sistema de rotas de transporte público que sugere linhas de ônibus
-a partir da origem, do destino e das preferências do usuário.
+Sistema de rotas de transporte público que sugere linhas de ônibus a partir da origem, do destino e das preferências do usuário.
 
->  Status: em desenvolvimento (fase inicial)
+>  Status: em desenvolvimento
 
 ## Objetivo
-Ajudar o usuário a encontrar a melhor opção de linha de ônibus
-para o seu trajeto, considerando o que ele prioriza
-(por exemplo: [menos tempo / menos baldeações / menor custo]).
+Ajudar o usuário a encontrar a melhor opção de linha de ônibus para o seu trajeto, considerando o que ele prioriza dentre menor tempo de viagem, de caminhada ou custo.
 
 ## O que já foi feito
 - Estrutura inicial da página em HTML
 - Estilização com CSS
 
 ## Próximos passos
-- [ ] [Lógica de busca de rotas, em Python]
-- [ ] [Organização dos dados de linhas e horários]
-- [ ] [Filtro por preferências]
+-  [Lógica de busca de rotas, em Python]
+-  [Organização dos dados de linhas e horários]
+-  [Filtro por preferências]
 
 ## Tecnologias
 - HTML
