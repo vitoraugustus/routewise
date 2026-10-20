@@ -29,7 +29,8 @@ para o seu trajeto, considerando o que ele prioriza
 2. Abra o arquivo `index.html` no navegador.
 
 ## Captura de tela
-![Tela inicial](imagens/tela-inicial.png)
+<img width="1225" height="781" alt="image" src="https://github.com/user-attachments/assets/7dafcf42-191f-41d9-836f-e76712d1ec7f" />
+
 
 ## Autor
 Vitor Augustus Alves de Lima
