@@ -2,7 +2,7 @@ import unicodedata
 
 linhas = [
     {"nome": "INTER-2 (HORÁRIO) - 022", "paradas": ["Terminal Cabral", "Estação Tubo Agrárias", "Estação Tubo Praça das Nações", "Estação Tubo Colégio Militar", "Terminal Capão da Imbuia"], "minutos": 36, "tarifa": 6.00},
-    {"nome": "INTER-2 (ANTI-HORÁRIO) - 023", "paradas": ["Terminal Capão da Imbuia", "Av. Victor Ferreira do Amaral", "Rua dos Funcionários 1558", "Rua Luciano Cardinale", "Terminal Cabral"], "minutos": 43, "tarifa": 6.00}
+    {"nome": "INTER-2 (ANTI-HORÁRIO) - 023", "paradas": ["Terminal Capão da Imbuia", "Av. Victor Ferreira do Amaral", "Rua dos Funcionários", "Rua Luciano Cardinale", "Terminal Cabral"], "minutos": 43, "tarifa": 6.00}
 ]
 
 def normalizar(texto):
