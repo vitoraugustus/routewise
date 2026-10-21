@@ -44,3 +44,22 @@ button{
     flex-direction: column;
     gap: 5px;
 }
+
+.resultados {
+    margin-top: 20px;
+}
+
+.rota {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.rota.melhor {
+    background-color: #e8f5e9;
+    border: 2px solid #2e7d32;
+}
