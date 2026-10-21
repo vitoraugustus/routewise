@@ -12,9 +12,9 @@ Ajudar o usuário a encontrar a melhor opção de linha de ônibus para o seu tr
 - Estilização com CSS
 
 ## Próximos passos
--  [Lógica de busca de rotas, em Python]
--  [Organização dos dados de linhas e horários]
--  [Filtro por preferências]
+- [ ] Lógica de busca de rotas em Python
+- [ ] Organização dos dados de linhas e horários
+- [ ] Filtro por preferências
 
 ## Tecnologias
 - HTML
