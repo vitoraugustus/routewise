@@ -41,7 +41,7 @@
             {% for r in resultados %}
                 <div class="rota {% if loop.first %}melhor{% endif %}">
                     <strong>Linha {{ r.nome }}</strong>
-                    <span>{{ r.minutos }} min</span>
+                    <span>{{ r.tempo }} min</span>
                     <span>R$ {{ "%.2f"|format(r.tarifa) }}</span>
                 </div>
             {% else %}
